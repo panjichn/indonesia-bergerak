@@ -36,7 +36,7 @@
 						 			<ul class="main-slider-indicators-inner carousel-indicators" tabindex="0">
 						 				<li data-target="#main-slider" data-slide-to="0" class="text-right active">
 						 					<p class="slide2-type"> <span class="cat-icon cat-icon-color01"> B</span>BUMN</p>
-						 					<p class="indicators-title"> Garuda Indonesia akan buka Lowongan Kerja </p>
+						 					<p class="indicators-title"> Garuda Indonesia akan buka penerbangan ke Amerika Serikatt </p>
 						 				</li>
 						 				<li data-target="#main-slider" data-slide-to="1" class="text-right">
 						 					<p class="slide2-type"> <span class="cat-icon cat-icon-color02"> S</span>Swasta</p>
@@ -64,7 +64,7 @@
 													<a href="article-categories.html"><span class="cat-icon cat-icon-color01"> B</span>BUMN</a>
 												</p>
 												<h2 class="slide-title">
-													<a href="single-article.html">Garuda Indonesia akan buka Lowongan Kerja</a>
+													<a href="single-article.html">Garuda Indonesia akan buka penerbangan ke Amerika Serikatt</a>
 												</h2>
 											</div>
 										</div>
