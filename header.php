@@ -12,15 +12,13 @@
 									<span>	Senin, 11 Januari 2016 </span>
 								</div> <!-- //date -->
 								
-	
+	                           <!--
 								<div class="newedge-login">
 									<a href="#" role="button" data-toggle="modal" data-target="#login">
 										<i class="fa fa-user"></i>
 									</a>
-									<!-- Login modal -->
 									<div id="login" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
 										<div class="modal-dialog">
-											<!-- Modal content-->
 											<div class="modal-content">
 												<div class="modal-header">
 													<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-close"></i></button>
@@ -45,15 +43,16 @@
 															</p>
 														</fieldset>
 													</form>
-												</div> <!--/Modal body-->
+												</div>
 												<div class="modal-footer">
 													New Here? <a href="#">
 													Create an account</a>
-												</div> <!--/Modal footer-->
-											</div> <!-- Modal content-->
-										</div> <!-- /.modal-dialog -->
-									</div> <!-- //Login modal -->
-								</div> <!-- //login -->
+                                                </div>
+											</div>
+										</div>
+									</div>
+								</div>
+                                -->
 								<div class="newedge-search">
 									<div class="search-icon-wrapper">
 										<i class="fa fa-search"></i>
@@ -93,13 +92,21 @@
 							<ul class="list-inline megamenu-parent">
 								<li>
 									<a href="index.php">Beranda</a>
-									
 								</li>
-                                
-                                
+                                <li>
+                                    <a href="kabarbumn.php">Kabar BUMN</a>
+                                </li>
+                                <li>
+                                    <a href="kabarbumn.php">Kementrian &amp; Lembaga Negara</a>
+                                </li>
+                                <li>
+                                    <a href="kabarbumn.php">Pemerintah Daerah</a>
+                                </li>
+                                <!--
                                 <li class="has-child menu-justify">
-									<a href="article-categories.html">Pemerintah Pusat</a>
-									<div class="dropdown-inner container dropdown-menu-full-wrapper">
+									<a href="article-categories.html">Kabar BUMN</a>
+									
+                                    <div class="dropdown-inner container dropdown-menu-full-wrapper">
 										<div class="dropdown-menu-full vertical-tabs">
 											<div class="row">
 												<div class="col-sm-12">
@@ -113,7 +120,7 @@
 																<li><a href="#pusat5" data-toggle="tab">Pemerintah Pusat 5</a></li>
 																<li><a href="#lain-0" data-toggle="tab">Lainnya..</a></li>
 															</ul>
-														</div> <!-- //col-sm-3 -->
+                                                        </div>
 	
 														<div class="col-sm-9">
 															<div class="tab-content simple-article-overlay">
@@ -131,7 +138,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">suscipit luctus orci placerat fringilla</a>
@@ -152,7 +159,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Proin suscipit luctus orci placerat fringilla</a>
@@ -173,7 +180,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Proin suscipit luctus orci placerat fringilla</a>
@@ -182,8 +189,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="pusat2">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -198,7 +205,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -219,7 +226,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -240,7 +247,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -249,8 +256,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="pusat3">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -265,7 +272,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -286,7 +293,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -307,7 +314,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -316,8 +323,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="pusat4">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -332,7 +339,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -353,7 +360,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -374,7 +381,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -383,8 +390,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="pusat5">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -399,7 +406,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -420,7 +427,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -441,7 +448,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -450,8 +457,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+                                                                </div>
 																<div role="tabpanel" class="tab-pane" id="lain-0">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -466,7 +473,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -487,7 +494,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -508,7 +515,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -517,11 +524,11 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>								
 												</div>
 											</div>
 										</div>
@@ -545,7 +552,7 @@
 																<li><a href="#riau" data-toggle="tab">Riau</a></li>
 																<li><a href="#lain-1" data-toggle="tab">Lainnya..</a></li>
 															</ul>
-														</div> <!-- //col-sm-3 -->
+														</div>
 	
 														<div class="col-sm-9">
 															<div class="tab-content simple-article-overlay">
@@ -563,7 +570,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Jakarta, ibu kota Indonesia dengan ribuan keunikan didalmanya</a>
@@ -584,7 +591,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Secuil cerita dari megahnya stasiun Jakarta Kota</a>
@@ -605,7 +612,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Jokowi melihat langsung korban banjir di daerah mampang</a>
@@ -614,8 +621,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="jabar">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -630,7 +637,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Mencoba aneka masakan Sunda di daerah Bandung</a>
@@ -651,7 +658,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Berkunjung ke Geopark Ciletuh, salah satu destinasi di Jawa Barat</a>
@@ -672,7 +679,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Belimbing Depok, primadona dari kota Depok</a>
@@ -681,8 +688,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="aceh">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -697,7 +704,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -718,7 +725,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -739,7 +746,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -748,8 +755,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="jateng">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -764,7 +771,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -785,7 +792,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -806,7 +813,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -815,8 +822,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="riau">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -831,7 +838,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -852,7 +859,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -873,7 +880,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -882,8 +889,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="lain-1">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -898,7 +905,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -919,7 +926,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -940,7 +947,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -949,11 +956,11 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>								
 												</div>
 											</div>
 										</div>
@@ -980,7 +987,7 @@
 																<li><a href="#bjb" data-toggle="tab">Bank BJB</a></li>
 																<li><a href="#lain-2" data-toggle="tab">Lainnya..</a></li>
 															</ul>
-														</div> <!-- //col-sm-3 -->
+														</div>
 	
 														<div class="col-sm-9">
 															<div class="tab-content simple-article-overlay">
@@ -998,7 +1005,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">suscipit luctus orci placerat fringilla</a>
@@ -1019,7 +1026,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Proin suscipit luctus orci placerat fringilla</a>
@@ -1040,7 +1047,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pertamina/">Proin suscipit luctus orci placerat fringilla</a>
@@ -1049,8 +1056,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="pln">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -1065,7 +1072,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -1086,7 +1093,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -1107,7 +1114,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="http://microsite.detik.com/display/ib-pln/">Proin suscipit luctus orci placerat fringilla</a>
@@ -1116,8 +1123,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="telkom">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -1132,7 +1139,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1153,7 +1160,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1174,7 +1181,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1183,8 +1190,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="antam">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -1199,7 +1206,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1220,7 +1227,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1241,7 +1248,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1250,8 +1257,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="bjb">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -1266,7 +1273,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1287,7 +1294,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1308,7 +1315,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1317,8 +1324,8 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
+																	</div>
+																</div>
 																<div role="tabpanel" class="tab-pane" id="lain-2">
 																	<div class="row">
 																		<div class="col-sm-4">
@@ -1333,7 +1340,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1354,7 +1361,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
+																					</div>
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -1375,1727 +1382,7 @@
 																						<a href="#" class="fa fa-pinterest"></a>
 																						<a href="#" class="fa fa-linkedin"></a>
 																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-                                <li class="has-child menu-justify">
-									<a href="article-categories.html">Korporasi</a>
-									<div class="dropdown-inner container dropdown-menu-full-wrapper">
-										<div class="dropdown-menu-full vertical-tabs">
-											<div class="row">
-												<div class="col-sm-12">
-													<div class="row">
-														<div class="col-sm-3">
-															<ul class="tab-btns" role="tablist">
-																<li class="active"><a href="#facebook" data-toggle="tab">Mandiri</a></li>
-																<li><a href="#twitter" data-toggle="tab">Sampoerna</a></li>
-																<li><a href="#youtube" data-toggle="tab">Djarum</a></li>
-																<li><a href="#pinterest" data-toggle="tab">Indosat</a></li>
-																<li><a href="#dribble" data-toggle="tab">Oppo Smartphone</a></li>
-																<li><a href="#g-plus" data-toggle="tab">Nivea</a></li>
-															</ul>
-														</div> <!-- //col-sm-3 -->
-	
-														<div class="col-sm-9">
-															<div class="tab-content simple-article-overlay">
-																<div role="tabpanel" class="tab-pane active" id="facebook">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium03.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="twitter">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium04.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium05.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium06.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="youtube">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium07.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium08.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium09.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="pinterest">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium10.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium11.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium12.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="dribble">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium13.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium14.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium15.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="g-plus">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium16.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-                                <li class="has-child menu-justify">
-									<a href="article-categories.html">Komunitas</a>
-									<div class="dropdown-inner container dropdown-menu-full-wrapper">
-										<div class="dropdown-menu-full vertical-tabs">
-											<div class="row">
-												<div class="col-sm-12">
-													<div class="row">
-														<div class="col-sm-3">
-															<ul class="tab-btns" role="tablist">
-																<li class="active"><a href="#facebook" data-toggle="tab">PDI-P</a></li>
-																<li><a href="#twitter" data-toggle="tab">Partai Golkar</a></li>
-																<li><a href="#youtube" data-toggle="tab">Partai Gerindra</a></li>
-																<li><a href="#pinterest" data-toggle="tab">Partai Nasdem</a></li>
-																<li><a href="#dribble" data-toggle="tab">Partai Perindo</a></li>
-																<li><a href="#g-plus" data-toggle="tab">Partai Demokrat</a></li>
-															</ul>
-														</div> <!-- //col-sm-3 -->
-	
-														<div class="col-sm-9">
-															<div class="tab-content simple-article-overlay">
-																<div role="tabpanel" class="tab-pane active" id="facebook">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium03.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="twitter">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium04.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium05.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium06.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="youtube">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium07.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium08.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium09.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="pinterest">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium10.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium11.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium12.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="dribble">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium13.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium14.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium15.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="g-plus">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium16.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-                                <li class="has-child menu-justify">
-									<a href="article-categories.html">Kementrian</a>
-									<div class="dropdown-inner container dropdown-menu-full-wrapper">
-										<div class="dropdown-menu-full vertical-tabs">
-											<div class="row">
-												<div class="col-sm-12">
-													<div class="row">
-														<div class="col-sm-3">
-															<ul class="tab-btns" role="tablist">
-																<li class="active"><a href="#facebook" data-toggle="tab">Kementrian Pariwisata</a></li>
-																<li><a href="#twitter" data-toggle="tab">Kementrian Pertanian</a></li>
-																<li><a href="#youtube" data-toggle="tab">Kementrian Keuangan</a></li>
-																<li><a href="#pinterest" data-toggle="tab">Kementrian Perhubungan</a></li>
-																<li><a href="#dribble" data-toggle="tab">Kementrian Hukum</a></li>
-																<li><a href="#g-plus" data-toggle="tab">Kementrian Agama</a></li>
-															</ul>
-														</div> <!-- //col-sm-3 -->
-	
-														<div class="col-sm-9">
-															<div class="tab-content simple-article-overlay">
-																<div role="tabpanel" class="tab-pane active" id="facebook">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium03.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="twitter">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium04.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium05.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium06.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="youtube">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium07.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium08.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium09.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="pinterest">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium10.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium11.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium12.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="dribble">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium13.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium14.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium15.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="g-plus">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium16.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-								<li class="has-child menu-justify">
-									<a href="article-categories.html">Lembaga Pemerintah</a>
-									<div class="dropdown-inner container dropdown-menu-full-wrapper">
-										<div class="dropdown-menu-full vertical-tabs">
-											<div class="row">
-												<div class="col-sm-12">
-													<div class="row">
-														<div class="col-sm-3">
-															<ul class="tab-btns" role="tablist">
-																<li class="active"><a href="#facebook" data-toggle="tab">Jakarta</a></li>
-																<li><a href="#twitter" data-toggle="tab">Purwakarta</a></li>
-																<li><a href="#youtube" data-toggle="tab">Belitung timur</a></li>
-																<li><a href="#pinterest" data-toggle="tab">Kep. Raja ampat</a></li>
-																<li><a href="#dribble" data-toggle="tab">Bogor</a></li>
-																<li><a href="#g-plus" data-toggle="tab">Makassar</a></li>
-															</ul>
-														</div> <!-- //col-sm-3 -->
-	
-														<div class="col-sm-9">
-															<div class="tab-content simple-article-overlay">
-																<div role="tabpanel" class="tab-pane active" id="facebook">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium03.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="twitter">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium04.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium05.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium06.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="youtube">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium07.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium08.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium09.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="pinterest">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium10.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium11.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium12.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="dribble">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium13.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium14.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium15.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-																<div role="tabpanel" class="tab-pane" id="g-plus">
-																	<div class="row">
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium16.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
-																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium01.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
-																					<div class="article-info">
-																						<h4 class="entry-title">
-																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
-																						</h4>
 																					</div>
-																				</div>
-																			</article>
-																		</div>
-																		<div class="col-sm-4">
-																			<article class="item">
-																				<div class="article-inner">
-																					<div class="overlay"></div>
-																					<div class="img-wrapper"><img class="img-100p latest-post-image" src="img/article-img/medium02.jpg" alt="img"></div>
-																					<div class="post-share-social">
-																						<a href="#" class="fa fa-facebook"></a>
-																						<a href="#" class="fa fa-twitter"></a>
-																						<a href="#" class="fa fa-google-plus"></a>
-																						<a href="#" class="fa fa-pinterest"></a>
-																						<a href="#" class="fa fa-linkedin"></a>
-																						<div class="share-icon"><i class="fa fa-share-alt"></i></div>
-																					</div> <!-- //post-share-social -->
 																					<div class="article-info">
 																						<h4 class="entry-title">
 																							<a href="single-article.html">Proin suscipit luctus orci placerat fringilla</a>
@@ -3104,50 +1391,17 @@
 																				</div>
 																			</article>
 																		</div>
-																	</div> <!-- //row -->
-																</div> <!-- //tab-pane -->
-															</div> <!-- //tab-content -->
-														</div> <!-- //col-sm-9 -->
-													</div> <!-- //row -->								
-												</div>
-											</div>
-										</div>
-									</div>
-								</li>
-                                
-								<!--<li class="has-child">
-									<a href="javascript:void(0)">Pages</a>
-									<div class="dropdown-inner">
-										<ul class="dropdown-items">
-											<li><a href="about.html">About Us</a></li>
-											<li><a href="advertisement.html">Advertisement</a></li>
-											<li><a href="contact.html">Contact Us</a></li>
-											<li><a href="comingsoon.html">Coming Soon</a></li>
-											<li><a href="404.html">404 Page</a></li>
-											<li class="has-child">
-												<a href="javascript:void(0)">Parent</a>
-												<div class="dropdown-inner sub-dropdown-inner">
-													<ul class="dropdown-items">
-														<li><a href="javascript:void(0)">Sub Child 01</a></li>
-														<li><a href="javascript:void(0)">Sub Child 02</a></li>
-														<li><a href="javascript:void(0)">Sub Child 03</a></li>
-														<li class="has-child">
-															<a href="javascript:void(0)">Parent</a>
-															<div class="dropdown-inner sub-dropdown-inner">
-																<ul class="dropdown-items">
-																	<li><a href="javascript:void(0)">Sub Child 01</a></li>
-																	<li><a href="javascript:void(0)">Sub Child 02</a></li>
-																	<li><a href="javascript:void(0)">Sub Child 03</a></li>
-																</ul>
+																	</div>
+																</div>
 															</div>
-														</li>
-													</ul>
+														</div>
+													</div>							
 												</div>
-											</li>
-										</ul>
+											</div>
+										</div>
 									</div>
-								</li>-->
-								
+								</li>
+                                -->
 							</ul>
 						</div> <!-- col-sm-12 -->
 					</div> <!-- //row -->

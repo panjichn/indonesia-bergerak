@@ -1,4 +1,4 @@
-        <footer>
+         <footer>
 			<div class="footer-wrapper">
 				<div class="container">
 					<div class="row">
@@ -76,7 +76,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6 col-md-6">
-							<p class="copyright"> Copyright © 2016 <a href="http://joomshaper.com">Detikcom</a> All rights reserved.</p>
+							<p class="copyright"> Copyright © 2017 <a href="http://joomshaper.com">Detikcom</a> All rights reserved.</p>
 						</div>
 						<div class="col-sm-6 col-md-6">
 							<p class="pull-right">Design &amp; Devleopment by&nbsp;<a href="http://www.joomshaper.com/">Detikcom</a></p>
