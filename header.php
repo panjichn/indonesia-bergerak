@@ -94,13 +94,13 @@
 									<a href="index.php">Beranda</a>
 								</li>
                                 <li>
-                                    <a href="kabarbumn.php">Kabar BUMN</a>
+                                    <a href="http://microsite.detik.com/display/ib-kabar-bumn/">Kabar BUMN</a>
                                 </li>
                                 <li>
-                                    <a href="kabarbumn.php">Kementrian &amp; Lembaga Negara</a>
+                                    <a href="{clickurl}">Kementrian &amp; Lembaga Negara</a>
                                 </li>
                                 <li>
-                                    <a href="kabarbumn.php">Pemerintah Daerah</a>
+                                    <a href="http://microsite.detik.com/display/kabardaerah/">Kabar Daerah</a>
                                 </li>
                                 <!--
                                 <li class="has-child menu-justify">

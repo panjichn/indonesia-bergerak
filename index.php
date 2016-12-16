@@ -64,7 +64,7 @@
 													<a href="article-categories.html"><span class="cat-icon cat-icon-color01"> B</span>BUMN</a>
 												</p>
 												<h2 class="slide-title">
-													<a href="single-article.html">Garuda Indonesia akan buka penerbangan ke Amerika Serikatt</a>
+													<a href="single-article.html">Garuda Indonesia akan buka penerbangan ke Amerika Serikat</a>
 												</h2>
 											</div>
 										</div>
@@ -257,7 +257,7 @@
 											<div class="article-info">
 												<p class="slide-cat">
 													<a href="article-categories.html">
-														<span class="cat-icon cat-icon-color09"> F</span>FASHION
+														<span class="cat-icon cat-icon-color09"> K</span>Kementrian &amp; Lembaga Negara
 													</a>
 												</p>
 												<h4 class="entry-title">
@@ -284,7 +284,7 @@
 											<div class="article-info">
 												<p class="slide-cat">
 													<a href="article-categories.html">
-														<span class="cat-icon cat-icon-color04"> B</span>BUSINESS
+														<span class="cat-icon cat-icon-color04"> D</span>Daerah
 													</a>
 												</p>
 												<h4 class="entry-title">
@@ -313,7 +313,7 @@
 											<div class="article-info">
 												<p class="slide-cat">
 													<a href="article-categories.html">
-														<span class="cat-icon cat-icon-color08"> E</span>ENTERTAINMENT
+														<span class="cat-icon cat-icon-color08"> B</span>BUMN
 													</a>
 												</p>
 												<h4 class="entry-title">
@@ -340,7 +340,7 @@
 											<div class="article-info">
 												<p class="slide-cat">
 													<a href="article-categories.html">
-														<span class="cat-icon cat-icon-color06"> T</span>Technology
+														<span class="cat-icon cat-icon-color06"> B</span>BUMN
 													</a>
 												</p>
 												<h4 class="entry-title">
@@ -367,7 +367,7 @@
 											<div class="article-info">
 												<p class="slide-cat">
 													<a href="article-categories.html">
-														<span class="cat-icon cat-icon-color07"> S</span>SOCIAL
+														<span class="cat-icon cat-icon-color07">  B</span>BUMN
 													</a>
 												</p>
 												<h4 class="entry-title">
@@ -604,7 +604,7 @@
 								<div class="col-sm-4">
 									<div class="gradient-color09">
 										<div class="section-title">
-											<h3 class="pull-left"> <span class="cat-icon cat-icon-color08">S</span>Swasta</h3>
+											<h3 class="pull-left"> <span class="cat-icon cat-icon-color08">K</span>Kementerian</h3>
 											<div class="pull-right see-all">
 												<a href="#">Lihat lainnya</a>
 											</div>
@@ -661,7 +661,7 @@
 								<div class="col-sm-4">
 									<div class="gradient-color10">
 										<div class="section-title">
-											<h3 class="pull-left"> <span class="cat-icon cat-icon-color09">P</span>Partai Politik</h3>
+											<h3 class="pull-left"> <span class="cat-icon cat-icon-color09">D</span>Daerah</h3>
 											<div class="pull-right see-all">
 												<a href="#">Lihat lainnya</a>
 											</div>
@@ -738,114 +738,20 @@
 								<li><a href="single-article.html">KPK Masuk Tim 'Anti Korupsi' Ditjen Pajak yang Dibuat Sri Mulyani</a></li>
 								<li><a href="single-article.html">Reaksi Kader Golkar atas Upaya Pencopotan Akom dari Kursi Ketua DPR</a></li>
 								<li><a href="single-article.html">Potret Benteng Cantik Nan Mistis di Bengkulu</a></li>
+                                <li><a href="single-article.html">Ekonomi RI Bakal Tumbuh di Atas 6% pada 2021</a></li>
+								<li><a href="single-article.html">Jakarta Akan Tutup Rangkaian 'Solitour 2016'</a></li>
+								<li><a href="single-article.html">KPK Masuk Tim 'Anti Korupsi' Ditjen Pajak yang Dibuat Sri Mulyani</a></li>
+								<li><a href="single-article.html">Reaksi Kader Golkar atas Upaya Pencopotan Akom dari Kursi Ketua DPR</a></li>
+								<li><a href="single-article.html">Potret Benteng Cantik Nan Mistis di Bengkulu</a></li>
+                                <li><a href="single-article.html">Ekonomi RI Bakal Tumbuh di Atas 6% pada 2021</a></li>
+								<li><a href="single-article.html">Jakarta Akan Tutup Rangkaian 'Solitour 2016'</a></li>
+								<li><a href="single-article.html">KPK Masuk Tim 'Anti Korupsi' Ditjen Pajak yang Dibuat Sri Mulyani</a></li>
+								<li><a href="single-article.html">Reaksi Kader Golkar atas Upaya Pencopotan Akom dari Kursi Ketua DPR</a></li>
+								<li><a href="single-article.html">Potret Benteng Cantik Nan Mistis di Bengkulu</a></li>
 							</ul>
 						</div> <!-- //popular-news -->
 						<!-- Latest Comments -->
-            <div class="latest-comments mtt30">
-              <div class="section-title">
-                <h3> <span class="cat-icon"><i class="fa fa-comment-o"></i></span>Recent Comments</h3>
-              </div> <!-- //section-title -->
-    
-              <div class="latest-comment">
-                <p>"Salami rump boudin filet mignon doner beef ribs pork tenderloin"</p>
-                <div class="media">
-                  <div class="latest-comments-image media-left">
-                    <img src="img/comm-user.jpg" alt="comment">
-                  </div>
-                  <div class="latest-comment-wrap media-body">
-                    <span class="latest-comments-user">admin</span><span class="latest-comments-date">October 30 2015</span>,<span class="latest-comments-category"> <a href="#" class="social-color">Social</a></span>
-                  </div>
-                </div>
-              </div>
-              <div class="latest-comment">
-                <p>"Salami rump boudin filet mignon doner beef ribs pork tenderloin"</p>
-                <div class="media">
-                  <div class="latest-comments-image media-left">
-                    <img src="img/comm-user.jpg" alt="comment">
-                  </div>
-                  <div class="latest-comment-wrap media-body">
-                    <span class="latest-comments-user">admin</span><span class="latest-comments-date">October 30 2015</span>,<span class="latest-comments-category"> <a href="#" class="technology-color">Technology</a></span>
-                  </div>
-                </div>
-              </div>
-              <div class="latest-comment">
-                <p>"Salami rump boudin filet mignon doner beef ribs pork tenderloin"</p>
-                <div class="media">
-                  <div class="latest-comments-image media-left">
-                    <img src="img/comm-user.jpg" alt="comment">
-                  </div>
-                  <div class="latest-comment-wrap media-body">
-                    <span class="latest-comments-user">admin</span><span class="latest-comments-date">October 30 2015</span>,<span class="latest-comments-category"> <a href="#" class="fashion-color">Fashion</a></span>
-                  </div>
-                </div>
-              </div>
-            </div> <!-- //Latest Comments -->
-			<div class="row">
-             <!-- previous comments -->
-             <div class="col-sm-12">
-              <div class="comments-content mtt60">
-                <div class="section-title">
-                 <h3> <span class="cat-icon"><i class="fa fa-comments"></i></span>Comments</h3>
-               </div>
-                <ul class="media-list">
-                  <!-- start each comment -->
-                  <li class="media each-comments">
-                    <div class="media-left">
-                      <a href="#"><img src="img/comments/comments1.jpg" alt="comments" class="media-object"></a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="headline wow fadeInDown">Jasper says:</h4>
-                      <p class="date wow fadeInDown">15/02/2016</p>
-                      <div class="comments-info">
-                        <p class="wow fadeInDown">
-                          Nullam id sem ligula. Donec tincidunt rhoncus turpis, et pharetra nunc volutpat quis. Curabitur porttitor odio quis velit condimentum dapibus.
-                        </p>
-                      </div>
-                      <a href="#" class="link-color reply-arrow  wow fadeInDown"><i class="fa fa-mail-forward"></i> Reply</a>
-                    </div>
-                  </li> <!-- //end each comment -->
-
-                  <!-- start each comment -->
-                  <li class="media each-comments">
-                    <div class="media-left">
-                      <a href="#"><img src="img/comments/comments2.jpg" alt="comments" class="media-object"></a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="headline wow fadeInDown">Jasper says:</h4>
-                      <p class="date wow fadeInDown">11/01/2016</p>
-                      <div class="comments-info">
-                        <p class="wow fadeInDown">
-                          Nullam id sem ligula. Donec tincidunt rhoncus turpis, et pharetra nunc volutpat quis. Curabitur porttitor odio quis velit condimentum dapibus.
-                        </p>
-                      </div>
-                      <a href="#" class="link-color reply-arrow  wow fadeInDown"><i class="fa fa-mail-forward"></i> Reply</a>
-                    </div>
-                  </li> <!-- //each comment -->
-                </ul>
-              </div>
-            </div> <!-- //previous comments -->
-
-            <!-- comments form -->
-            <div class="comments-form col-sm-12">
-              <div class="section-title">
-               <h3> <span class="cat-icon"><i class="fa fa-commenting"></i></span>Leave a comment</h3>
-             </div>
-             <div class="contact-form leave-message">
-               <form id="main-contact-form" name="contact-form" method="post" action="sendemail.php">
-                 <div class="form-group">
-                   <input type="text" name="name" class="form-control" placeholder="Name" required="required">
-                 </div>
-                 <div class="form-group">
-                   <input type="email" name="email" class="form-control" placeholder="Email" required="required">
-                 </div>
-                 <div class="form-group input-textarea">
-                   <textarea name="message" rows="5" class="form-control" placeholder="Message" required="required"></textarea>
-                 </div>
-                 <button type="submit" class="btn btn-success">Send Message</button>
-               </form>
-             </div>
-            </div> <!-- //comments form -->
-           </div> <!-- //row -->			
+            			
 						
 						
 						

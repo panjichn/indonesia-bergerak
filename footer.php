@@ -23,25 +23,25 @@
 								<div class="pull-left">
 									<ul class="menu">
 										<li><a href="#">Home</a></li>
-										<li><a href="about.html">BUMN</a></li>
-										<li><a href="advertisement.html">Swasta</a></li>
-										<li><a href="article-categories.html">Partai Politik</a></li>
+										<li><a href="about.html">Kementrian &amp; Lembaga Negara</a></li>
+										<li><a href="advertisement.html">Kabar BUMN</a></li>
+										<li><a href="article-categories.html">Kabar Daerah</a></li>
 										<li><a href="#">Kementrian</a></li>
 									</ul>
 								</div>
-								<div class="pull-right">
+								<!--<div class="pull-right">
 									<ul class="menu">
 										<li><a href="contact.html">Regional</a></li>
 										<li><a href="#">Yayasan</a></li>
 										
 									</ul>
-								</div>
+								</div>-->
 							</div>
 						</div> <!-- //bottom2 -->
 	
 						<div id="bottom3" class="col-sm-6 col-md-3">
 							<div class="">
-								<h3 class="title">Tag Cloud</h3>
+								<h3 class="title">News Tag</h3>
 								<div class="tags">
 									<a class="tag-name" href="#">World</a>
 									<a class="tag-name" href="#">Sports</a>
@@ -62,9 +62,7 @@
 								<ul class="social-icons">
 									<li><a target="_blank" href="#"><i class="fa fa-facebook"></i> Facebook</a></li>
 									<li><a target="_blank" href="#"><i class="fa fa-twitter"></i> Twitter</a></li>
-									<li><a target="_blank" href="#"><i class="fa fa-google-plus"></i> Google Plus</a></li>
-									<li><a target="_blank" href="#"><i class="fa fa-pinterest"></i> Pinterest</a></li>
-									<li><a target="_blank" href="#"><i class="fa fa-linkedin"></i> Linkedin</a></li>
+									
 								</ul>
 							</div>
 						</div> <!-- //bottom4 -->
